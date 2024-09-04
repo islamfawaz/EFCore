@@ -1,0 +1,45 @@
+[
+{
+  "Name": "Ahmed",
+  "Age": 29,
+  "Salary": 8000,
+  "Address":"Cairo",
+  "DepartmentId": 1
+},
+{
+  "Name": "Nadia",
+  "Age": 24,
+  "Salary": 3000,
+  "Address":"Alex",
+  "DepartmentId": 2
+},
+{
+  "Name": "Ebrahim",
+  "Age": 29,
+  "Salary": 7000,
+  "Address":"Tanta",
+  "DepartmentId": 1
+},
+{
+  "Name": "Bassel",
+  "Age": 29,
+  "Salary": 3500,
+  "Address":"Mansoura",
+  "DepartmentId": 3
+},
+{
+  "Name": "Kareem",
+  "Age": 29,
+  "Salary": 7700,
+  "Address":"Cairo",
+  "DepartmentId": 1
+},
+{
+  "Name": "Ali",
+  "Age": 27,
+  "Salary": 12000,
+  "Address":"Tanta",
+  "DepartmentId": null
+}
+
+]
